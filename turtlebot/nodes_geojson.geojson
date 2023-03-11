@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "nodes_geojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -0.6, -1.3446 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ 0.6, -1.3446 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ 0.0, -1.7446 ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "Point", "coordinates": [ -1.6, -1.3446 ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [ -0.6, -0.3446 ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "Point", "coordinates": [ 0.6, -0.3446 ] } },
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "Point", "coordinates": [ -1.6, -0.3446 ] } },
+{ "type": "Feature", "properties": { "id": 8 }, "geometry": { "type": "Point", "coordinates": [ -1.6, 0.8554 ] } },
+{ "type": "Feature", "properties": { "id": 9 }, "geometry": { "type": "Point", "coordinates": [ -0.6, 0.8554 ] } },
+{ "type": "Feature", "properties": { "id": 10 }, "geometry": { "type": "Point", "coordinates": [ 0.6, 0.8554 ] } },
+{ "type": "Feature", "properties": { "id": 11 }, "geometry": { "type": "Point", "coordinates": [ 1.6, 0.8554 ] } },
+{ "type": "Feature", "properties": { "id": 12 }, "geometry": { "type": "Point", "coordinates": [ 1.6, -0.3446 ] } },
+{ "type": "Feature", "properties": { "id": 13 }, "geometry": { "type": "Point", "coordinates": [ 2.0, 0.2554 ] } },
+{ "type": "Feature", "properties": { "id": 14 }, "geometry": { "type": "Point", "coordinates": [ 1.6, -1.3446 ] } },
+{ "type": "Feature", "properties": { "id": 15 }, "geometry": { "type": "Point", "coordinates": [ -1.6, 1.8554 ] } },
+{ "type": "Feature", "properties": { "id": 16 }, "geometry": { "type": "Point", "coordinates": [ -0.6, 1.8554 ] } },
+{ "type": "Feature", "properties": { "id": 17 }, "geometry": { "type": "Point", "coordinates": [ 0.6, 1.8554 ] } },
+{ "type": "Feature", "properties": { "id": 18 }, "geometry": { "type": "Point", "coordinates": [ 1.6, 1.8554 ] } },
+{ "type": "Feature", "properties": { "id": 19 }, "geometry": { "type": "Point", "coordinates": [ -2.0, 0.2554 ] } },
+{ "type": "Feature", "properties": { "id": 20 }, "geometry": { "type": "Point", "coordinates": [ 0.0, 2.2554 ] } }
+]
+}
